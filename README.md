@@ -31,11 +31,11 @@ Este repositório contém o desenvolvimento de um modelo de machine learning cap
 
 1. Clone o repositório:
    ```bash
-   [git clone https://github.com/monnikys/Analise_de_dados_voos.git]
+   git clone https://github.com/monnikys/Analise_de_dados_voos.git
 2. Instale as dependências necessárias (especifique as bibliotecas no arquivo `requirements.txt`):
    ```bash
    pip install -r requirements.txt
-3. Utilize o modelo salvo (`modelo_final.sav`) para fazer previsões nos dados desejados.
+3. Utilize o modelo salvo (`model_producao.pkl`) para fazer previsões nos dados desejados.
 
 ## 📂 Estrutura do Repositório
 
