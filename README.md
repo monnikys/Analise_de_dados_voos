@@ -39,9 +39,8 @@ Este repositório contém o desenvolvimento de um modelo de machine learning cap
 
 ## 📂 Estrutura do Repositório
 
-- `exploratory_analysis/` - Scripts e gráficos de análise exploratória.  
-- `feature_engineering/` - Processamento e preparação dos dados.  
-- `model_training/` - Treinamento e validação do modelo.  
+- `dados-voos.ipynb/` - Jupyter Notebook com a análise exploratória e o treinamento do modelo.  
+- `flights.csv/` - Base de dados com informações de voos.
 - `model_producao.pkl` - Modelo treinado para uso futuro.
 
 ## 📌 Observações
