@@ -19,19 +19,19 @@ Este repositório contém o desenvolvimento de um modelo de machine learning cap
    - Seleção das **features mais importantes** para otimização do desempenho.
 
 5. **Salvar o Modelo Treinado**  
-   - O modelo final foi salvo como `modelo_final.sav`, permitindo reutilização futura.
+   - O modelo final foi salvo como `model_producao.pkl`, permitindo reutilização futura.
 
 ## 🧪 Detalhes Técnicos
 
 - **Modelo Utilizado:** Random Forest Regressor  
 - **Técnica de Validação:** Validação cruzada  
-- **Output:** Arquivo `modelo_final.sav`  
+- **Output:** Arquivo `model_producao.pkl`  
 
 ## 🚀 Como Utilizar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/monnikys/Analise_de_dados_voos.git)
 2. Instale as dependências necessárias (especifique as bibliotecas no arquivo `requirements.txt`):
    ```bash
    pip install -r requirements.txt
@@ -42,7 +42,7 @@ Este repositório contém o desenvolvimento de um modelo de machine learning cap
 - `exploratory_analysis/` - Scripts e gráficos de análise exploratória.  
 - `feature_engineering/` - Processamento e preparação dos dados.  
 - `model_training/` - Treinamento e validação do modelo.  
-- `modelo_final.sav` - Modelo treinado para uso futuro.
+- `model_producao.pkl` - Modelo treinado para uso futuro.
 
 ## 📌 Observações
 
